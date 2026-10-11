@@ -1,0 +1,14 @@
+Offline map data attribution
+
+Map data: © OpenStreetMap contributors, available under the Open Database License (ODbL):
+https://www.openstreetmap.org/copyright
+
+The Iraq extract is provided by Geofabrik:
+https://download.geofabrik.de/asia/iraq.html
+
+Vector tile generation uses Planetiler and the OpenMapTiles schema:
+https://github.com/onthegomap/planetiler
+https://openmaptiles.org/
+
+Glyph ranges are distributed by OpenFreeMap:
+https://openfreemap.org/
